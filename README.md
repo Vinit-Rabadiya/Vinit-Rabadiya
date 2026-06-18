@@ -1,4 +1,3 @@
-# README.md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=VINIT+RABADIYA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI+%7C+ML+Engineer+%7C+Software+Developer&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
