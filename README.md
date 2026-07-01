@@ -1,26 +1,27 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=VINIT%20RABADIYA&fontSize=70&color=0:0d0d2b,100:1a1a4e&fontColor=00d4ff&stroke=00d4ff&strokeWidth=2&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Quantum%20Computing%20%7C%20Software%20Developer%20%E2%80%A2%20Space%20Enthusiast&descSize=16&descAlignY=75&descFontColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=VINIT%20RABADIYA&fontSize=70&color=0:050510,50:0d0d2b,100:1a1a4e&fontColor=00d4ff&stroke=00d4ff&strokeWidth=2&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Quantum%20Computing%20%7C%20Software%20Developer%20%E2%80%A2%20Space%20Enthusiast&descSize=16&descAlignY=75&descFontColor=a0c4ff&section=header" width="100%"/>
 
 <br/>
 
-<!-- MISSION HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+MISSION+COMMANDER;EXPLORING+INTELLIGENCE+—+BOTH+ARTIFICIAL+AND+COSMIC;⚡+GRAVITATIONAL+FIELD+INTENSITY%3A+96.7%25;🌌+COSMIC+RADIATION+BACKGROUND%3A+2.7K;📡+OBSERVATORY+47+%7C+EST.+2023" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+MISSION+COMMANDER;%F0%9F%8C%8C+EXPLORING+INTELLIGENCE+%E2%80%94+BOTH+ARTIFICIAL+%26+COSMIC;%E2%9A%A1+GRAVITATIONAL+FIELD+INTENSITY%3A+96.7%25;%F0%9F%8C%A0+COSMIC+RADIATION+BACKGROUND%3A+2.7K;%F0%9F%93%A1+OBSERVATORY+47+%7C+EST.+2023;%F0%9F%8C%8D+CURRENT+LOCATION%3A+EARTH+%E2%80%A2+MILKY+WAY+%E2%80%A2+ORION+ARM" alt="Typing SVG"/>
+
+<br/><br/>
+
+![Location](https://img.shields.io/badge/📍_LOCATION-EARTH_•_MILKY_WAY_•_ORION_ARM-00d4ff?style=flat-square&labelColor=050510)
+&nbsp;
+![Status](https://img.shields.io/badge/SYSTEM_STATUS-🟢_ONLINE-00ff88?style=flat-square&labelColor=050510)
+&nbsp;
+![Observatory](https://img.shields.io/badge/🔭_OBSERVATORY-47_|_EST._2023-a855f7?style=flat-square&labelColor=050510)
 
 </div>
 
 ---
 
-<!-- MISSION LOG + GALACTIC STATISTICS -->
-<table width="100%">
-<tr>
-<td width="35%" valign="top">
-
-### 🛸 MISSION LOG
+## 🛸 MISSION LOG
 
 | Field | Info |
-|-------|------|
+|---|---|
 | **NAME** | Vinit Rabadiya |
 | **ROLE** | AI Engineer |
 | **STATUS** | 🟢 Online |
@@ -31,40 +32,39 @@
 | **POWER SOURCE** | Coffee & Code |
 | **MOTTO** | *"Simplicity is the ultimate sophistication."* |
 
-</td>
-<td width="65%" valign="top">
+---
 
-### 📊 GALACTIC STATISTICS
+## 📊 GALACTIC STATISTICS
 
 <div align="center">
 
 ![Repositories](https://img.shields.io/badge/REPOSITORIES-94-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d2b)
-![Stars](https://img.shields.io/badge/⭐_STARS-312-ffd700?style=for-the-badge&labelColor=0d0d2b)
+![Stars](https://img.shields.io/badge/STARS_⭐-312-ffd700?style=for-the-badge&labelColor=0d0d2b)
 ![Commits](https://img.shields.io/badge/COMMITS-2.1K-00ff88?style=for-the-badge&labelColor=0d0d2b)
 ![Contributors](https://img.shields.io/badge/CONTRIBUTORS-35-ff6b6b?style=for-the-badge&labelColor=0d0d2b)
 ![Followers](https://img.shields.io/badge/FOLLOWERS-128-a855f7?style=for-the-badge&labelColor=0d0d2b)
 
 </div>
 
-<br/>
+---
 
-**🔭 GITHUB STATS**
+## 🔭 GITHUB STATS
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vinit-Rabadiya&show_icons=true&theme=tokyonight&bg_color=0d0d2b&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff&border_color=00d4ff&custom_title=Vinit-Rabadiya&count_private=true&include_all_commits=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinit-Rabadiya&layout=compact&theme=tokyonight&bg_color=0d0d2b&title_color=00d4ff&text_color=a0c4ff&border_color=00d4ff&langs_count=6"/>
-</div>
 
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Vinit-Rabadiya&show_icons=true&theme=tokyonight&bg_color=0d0d2b&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff&border_color=00d4ff&custom_title=Vinit-Rabadiya&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinit-Rabadiya&layout=compact&theme=tokyonight&bg_color=0d0d2b&title_color=00d4ff&text_color=a0c4ff&border_color=00d4ff&langs_count=8" alt="Top Languages"/>
+
+</div>
 
 ---
 
-<!-- STREAK STATS -->
-<div align="center">
+## 🔥 STREAK STATS
 
-### 🔥 STREAK STATS
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Vinit-Rabadiya&theme=tokyonight&background=0d0d2b&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=a0c4ff&dates=a0c4ff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak Stats"/>
 
@@ -72,88 +72,82 @@
 
 ---
 
-<!-- ACTIVITY ACROSS THE GALAXY -->
+## 🌌 ACTIVITY ACROSS THE GALAXY
+
 <div align="center">
 
-### 🌌 ACTIVITY ACROSS THE GALAXY
-
-[![Vinit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinit-Rabadiya&bg_color=0d0d2b&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&custom_title=Activity%20Across%20The%20Galaxy)](https://github.com/Vinit-Rabadiya)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinit-Rabadiya&bg_color=0d0d2b&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&custom_title=Activity%20Across%20The%20Galaxy&theme=tokyo-night)](https://github.com/Vinit-Rabadiya)
 
 </div>
 
 ---
 
-<!-- GITHUB TROPHIES + CONTRIBUTION GRAPH -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏆 GITHUB TROPHIES
+## ⏱️ WAKA TIME
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vinit-Rabadiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-</div>
 
-</td>
-<td width="50%" valign="top">
+![WakaTime](https://img.shields.io/badge/Total%20Code%20Time-1%2C253%20hrs-00d4ff?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0d0d2b)
 
-### ⏱️ WAKA TIME
+<br/><br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=VInitRabadiya&theme=tokyonight&bg_color=0d0d2b&title_color=00d4ff&text_color=a0c4ff&border_color=00d4ff&layout=compact&langs_count=5"/>
-
-![WakaTime](https://img.shields.io/badge/Code%20Time-1%2C253%20hrs-00d4ff?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0d0d2b)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-
-### 📈 CONTRIBUTION GRAPH
-
-> *Every dot is a step toward infinity...*
-
-[![Contribution Snake](https://raw.githubusercontent.com/Vinit-Rabadiya/Vinit-Rabadiya/output/github-contribution-grid-snake-dark.svg)](https://github.com/Vinit-Rabadiya)
+![Python](https://img.shields.io/badge/Python-54.1%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d0d2b)
+![JavaScript](https://img.shields.io/badge/JavaScript-16.8%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d0d2b)
+![C++](https://img.shields.io/badge/C%2B%2B-10.6%25-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d0d2b)
+![Java](https://img.shields.io/badge/Java-7.3%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d0d2b)
+![TypeScript](https://img.shields.io/badge/TypeScript-6.2%25-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=0d0d2b)
+![Others](https://img.shields.io/badge/Others-4.9%25-a0c4ff?style=flat-square&labelColor=0d0d2b)
 
 </div>
 
 ---
 
-<!-- TECHNOLOGY ORBITS + PLANETARY TECH STACK -->
-<table width="100%">
-<tr>
-<td width="45%" valign="top">
+## 📈 CONTRIBUTION GRAPH
 
-### 🪐 TECHNOLOGY ORBITS
+<div align="center">
+
+*Every dot is a step toward infinity...*
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinit-Rabadiya&bg_color=0d0d2b&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=false&border_color=00d4ff&custom_title=Contribution%20Graph&theme=tokyo-night)](https://github.com/Vinit-Rabadiya)
+
+</div>
+
+---
+
+## 🪐 TECHNOLOGY ORBITS
 
 <div align="center">
 
 ```
-         Python 🐍
-            ☀️ (Core)
-    Deep        Machine
-  Learning      Learning
-      ↗️          ↗️
-  🌍 Web Dev  🔬 Databases
-      ↘️          ↘️
-   Cloud &     Tools &
-   DevOps         IDEs
-       ⬇️
-      AWS ☁️
+                        ☀️  Python  ☀️
+                      ════════════════
+
+          🔴 Deep Learning          🟠 Machine Learning
+           PyTorch · TensorFlow      scikit-learn · MLflow
+                    ══════════════════════
+
+          🟡 Web Development         🟢 Databases
+           React · FastAPI · Node     MySQL · Mongo · Postgres
+                    ══════════════════════
+
+          🔵 Cloud & DevOps          🟣 Tools & IDEs
+            AWS · Docker · Git        VSCode · Jupyter · Colab
 ```
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,langchain&theme=dark&perline=5" alt="AI/ML"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css&theme=dark&perline=5" alt="Web"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,docker&theme=dark&perline=5" alt="DB & DevOps"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,jupyter&theme=dark&perline=5" alt="Tools"/>
 
 </div>
 
-</td>
-<td width="55%" valign="top">
+---
 
-### 🚀 PLANETARY TECH STACK
+## 🚀 PLANETARY TECH STACK
 
 **LANGUAGES**
 
@@ -170,7 +164,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
@@ -180,7 +174,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **DATABASES**
 
@@ -199,18 +193,9 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- CURRENT RESEARCH + FEATURED PROJECTS + ASTRONOMY PIC -->
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🔬 CURRENT RESEARCH
+## 🔬 CURRENT RESEARCH
 
 - 🔴 Large Language Models
 - 🟠 Retrieval-Augmented Generation
@@ -221,77 +206,27 @@
 - 🔴 Data Science & Analytics
 - 🟠 Distributed Systems
 
-</td>
-<td width="34%" valign="top">
+---
 
-### 💫 FEATURED PROJECTS
+## 🌀 UNIVERSE TIMELINE
 
-🌟 **SolarAI**
-AI-powered solar energy forecasting
-
-⚛️ **Quantumlite**
-Quantum computing simulator
-
-🤖 **NHG Assistant**
-LLM + Vector DB based assistant
-
-📊 **InsightDash**
-Data visualization dashboard
-
-👁️ **VisionPro**
-Computer vision toolkit
-
-<div align="center">
-
-[![View More](https://img.shields.io/badge/View%20More%20→-00d4ff?style=for-the-badge&labelColor=0d0d2b)](https://github.com/Vinit-Rabadiya?tab=repositories)
-
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-### 🌠 ASTRONOMY PICTURE OF THE DAY
-
-<div align="center">
-
-<img src="https://apod.nasa.gov/apod/image/2401/EagleNebula_Pillars_Hubble_960.jpg" width="100%" style="border-radius:8px; border: 1px solid #00d4ff;"/>
-
-*Eagle Nebula*
-Captured by Hubble Space Telescope 🔭
-
-</div>
-
-</td>
-</tr>
-</table>
+```
+🌑  2021 ──── Started Programming Journey
+🌒  2022 ──── Built Web & Mobile Applications
+🌓  2023 ──── Discovered Machine Learning
+🌔  2024 ──── Deep Learning & AI Projects
+🌕  2025 ──── LLMs, RAG & AI Agents
+🚀  2026 ──── Quantum Computing Explorer
+✨   ∞   ──── Exploring the Universe...
+```
 
 ---
 
-<!-- UNIVERSE TIMELINE + COSMIC FACTS + CONNECT -->
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+## 🌌 COSMIC FACTS
 
-### 🌀 UNIVERSE TIMELINE
+> 🌟 There are over 2 trillion galaxies in the observable universe
 
-```
-2021  Started Programming Journey
-2022  Built Web & Mobile Applications
-2023  Discovered Machine Learning
-2024  Deep Learning & AI Projects
-2025  LLMs, RAG & AI Agents
-2026  Quantum Computing Explorer
- ∞    Exploring the Universe...
-```
-
-</td>
-<td width="34%" valign="top">
-
-### 🌌 COSMIC FACTS
-
-> 🌟 There are over 2 trillion galaxies
-
-> ☀️ The Sun makes one orbit around the center of the Milky Way in 230 million years
+> ☀️ The Sun takes 230 million years to complete one orbit around the Milky Way
 
 > 🌍 Earth rotates at 1670 km/h
 
@@ -299,10 +234,9 @@ Captured by Hubble Space Telescope 🔭
 
 > 🤔 Meanwhile, I'm still debugging code!
 
-</td>
-<td width="33%" valign="top">
+---
 
-### 🛰️ CONNECT ACROSS THE UNIVERSE
+## 🛰️ CONNECT ACROSS THE UNIVERSE
 
 <div align="center">
 
@@ -310,43 +244,27 @@ Captured by Hubble Space Telescope 🔭
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://vinit-rabadiya.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinitrabadiya@gmail.com)
 
+<br/>
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VInitRabadiya)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinit-Rabadiya)
 [![Resume](https://img.shields.io/badge/Resume-00ff88?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/vinit-resume)
 
 <br/>
 
-> *"The best way to predict the future*
-> *is to invent it."*
+> *"The best way to predict the future is to invent it."*
+>
 > *— Alan Kay*
 
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- CONTRIBUTION SNAKE -->
 <div align="center">
 
-### 🐍 CONTRIBUTION SNAKE
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d0d2b,100:1a1a4e&section=footer&text=THANK%20YOU%20FOR%20VISITING%20MY%20COSMIC%20SPACE!&fontSize=18&fontColor=00d4ff&animation=fadeIn&desc=KEEP%20EXPLORING%20%7C%20KEEP%20LEARNING%20%7C%20KEEP%20BUILDING%20%F0%9F%9A%80&descSize=13&descFontColor=a0c4ff" width="100%"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinit-Rabadiya/Vinit-Rabadiya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinit-Rabadiya/Vinit-Rabadiya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vinit-Rabadiya/Vinit-Rabadiya/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0d2b,100:1a1a4e&section=footer&text=THANK%20YOU%20FOR%20VISITING%20MY%20COSMIC%20SPACE%21&fontSize=18&fontColor=00d4ff&animation=fadeIn&desc=KEEP%20EXPLORING%20%7C%20KEEP%20LEARNING%20%7C%20KEEP%20BUILDING%20🚀&descSize=14&descFontColor=a0c4ff" width="100%"/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vinit-Rabadiya&color=00d4ff&style=for-the-badge&label=COSMIC+VISITORS)
 
