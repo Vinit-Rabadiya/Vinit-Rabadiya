@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+MISSION+COMMANDER;%F0%9F%8C%8C+EXPLORING+INTELLIGENCE+%E2%80%94+BOTH+ARTIFICIAL+%26+COSMIC;%E2%9A%A1+GRAVITATIONAL+FIELD+INTENSITY%3A+96.7%25;%F0%9F%8C%A0+COSMIC+RADIATION+BACKGROUND%3A+2.7K;%F0%9F%93%A1+OBSERVATORY+47+%7C+EST.+2023;%F0%9F%8C%8D+CURRENT+LOCATION%3A+EARTH+%E2%80%A2+MILKY+WAY+%E2%80%A2+ORION+ARM;%F0%9F%94%AD+BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=15&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+MISSION+COMMANDER;%F0%9F%8C%8C+EXPLORING+INTELLIGENCE+%E2%80%94+BOTH+ARTIFICIAL+%26+COSMIC;%E2%9A%A1+GRAVITATIONAL+FIELD+INTENSITY%3A+96.7%25;%F0%9F%8C%A0+COSMIC+RADIATION+BACKGROUND%3A+2.7K;%F0%9F%93%A1+OBSERVATORY+47+%7C+EST.+2023;%F0%9F%8C%8D+CURRENT+LOCATION%3A+EARTH+%E2%80%A2+MILKY+WAY+%E2%80%A2+ORION+ARM;%F0%9F%94%AD+BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -15,6 +15,19 @@
 ![Status](https://img.shields.io/badge/STATUS-🟢_ONLINE-00ff88?style=for-the-badge&labelColor=0a0a2e)
 &nbsp;
 ![Observatory](https://img.shields.io/badge/🔭_EST.-2023-a855f7?style=for-the-badge&labelColor=0a0a2e)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=22&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=👽+Greetings%2C+Earthlings!;📡+Signal+received+from+the+Orion+Arm...;🌌+A+carbon-based+lifeform+has+entered+the+chat;🚀+Welcome+to+my+corner+of+the+cosmos;⚡+Initiating+neural+handshake...;✅+Connection+established!" alt="Greeting"/>
+
+<br/>
+
+*Traveller, you've drifted into the digital space station of an AI Engineer.*
+*Grab a cup of cosmic coffee ☕ and explore.*
 
 </div>
 
@@ -44,11 +57,9 @@
 
 <div align="center">
 
-![Repositories](https://img.shields.io/badge/REPOSITORIES-94-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d2b)
-![Stars](https://img.shields.io/badge/STARS_⭐-312-ffd700?style=for-the-badge&labelColor=0d0d2b)
-![Commits](https://img.shields.io/badge/COMMITS-2.1K-00ff88?style=for-the-badge&labelColor=0d0d2b)
-![Contributors](https://img.shields.io/badge/CONTRIBUTORS-35-ff6b6b?style=for-the-badge&labelColor=0d0d2b)
-![Followers](https://img.shields.io/badge/FOLLOWERS-128-a855f7?style=for-the-badge&labelColor=0d0d2b)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVinit-Rabadiya&query=%24.public_repos&label=REPOSITORIES&color=00d4ff&style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d2b)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVinit-Rabadiya&query=%24.followers&label=FOLLOWERS&color=a855f7&style=for-the-badge&labelColor=0d0d2b)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVinit-Rabadiya&query=%24.following&label=FOLLOWING&color=00ff88&style=for-the-badge&labelColor=0d0d2b)
 
 </div>
 
