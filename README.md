@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=28&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&repeat=false&width=750&lines=👽+Greetings%2C+Earthling!+Welcome+to+my+Cosmic+Space+🚀" alt="Greeting"/>
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=28&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=👽+Greetings%2C+Earthling!+Welcome+to+my+Cosmic+Space+🚀" alt="Greeting"/>
 
 </div>
 
@@ -70,8 +70,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinit-Rabadiya&show_icons=true&theme=tokyonight&hide_border=false&border_color=00d4ff&bg_color=0d0d2b&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinit-Rabadiya&layout=compact&theme=tokyonight&hide_border=false&border_color=00d4ff&bg_color=0d0d2b&title_color=00d4ff&text_color=a0c4ff&langs_count=8" alt="Top Languages"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinit-Rabadiya&theme=tokyonight" alt="Stats"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinit-Rabadiya&theme=tokyonight" alt="Repos per Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinit-Rabadiya&theme=tokyonight" alt="Most Commit Language"/>
+
+<br/><br/>
+
+<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinit-Rabadiya&theme=tokyonight" alt="Profile Details"/>
 
 </div>
 
