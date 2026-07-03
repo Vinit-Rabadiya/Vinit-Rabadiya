@@ -110,19 +110,13 @@
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,kotlin&theme=dark&perline=6" alt="Languages"/>
 
-<br/><br/>
-
 **— AI / ML —**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" alt="AI ML"/>
 
-<br/><br/>
-
 **— WEB & DATABASES —**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css,mysql,mongodb,postgres,firebase&theme=dark&perline=9" alt="Web and DB"/>
-
-<br/><br/>
 
 **— CLOUD & TOOLS —**
 
