@@ -1,12 +1,21 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=28&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&repeat=false&width=750&lines=👽+Greetings%2C+Earthling!+Welcome+to+my+Cosmic+Space+🚀" alt="Greeting"/>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=260&text=VINIT%20RABADIYA&fontSize=72&fontAlign=50&fontAlignY=40&color=0:000000,40:000818,70:001030,100:001848&fontColor=00d4ff&stroke=00aaff&strokeWidth=2&animation=twinkling&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Quantum%20Computing%20%7C%20Software%20Developer%20%E2%80%A2%20Space%20Enthusiast&descSize=16&descAlignY=68&descFontColor=67e8f9" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:001848,50:000d30,100:000000&section=header&reversal=true" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=15&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+MISSION+COMMANDER;%F0%9F%8C%8C+EXPLORING+INTELLIGENCE+%E2%80%94+BOTH+ARTIFICIAL+%26+COSMIC;%E2%9A%A1+GRAVITATIONAL+FIELD+INTENSITY%3A+96.7%25;%F0%9F%8C%A0+COSMIC+RADIATION+BACKGROUND%3A+2.7K;%F0%9F%93%A1+OBSERVATORY+47+%7C+EST.+2023;%F0%9F%8C%8D+CURRENT+LOCATION%3A+EARTH+%E2%80%A2+MILKY+WAY+%E2%80%A2+ORION+ARM;%F0%9F%94%AD+BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME" alt="Typing SVG"/>
+<!-- Mission typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+MISSION+COMMANDER;🌌+EXPLORING+INTELLIGENCE+%E2%80%94+BOTH+ARTIFICIAL+%26+COSMIC;🌍+CURRENT+LOCATION%3A+EARTH+%E2%80%A2+MILKY+WAY+%E2%80%A2+ORION+ARM;🔭+BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME" alt="Mission SVG"/>
 
 <br/><br/>
 
@@ -15,14 +24,6 @@
 ![Status](https://img.shields.io/badge/STATUS-🟢_ONLINE-00ff88?style=for-the-badge&labelColor=0a0a2e)
 &nbsp;
 ![Observatory](https://img.shields.io/badge/🔭_EST.-2023-a855f7?style=for-the-badge&labelColor=0a0a2e)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=22&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=👽+Greetings%2C+Earthlings!;📡+Signal+received+from+the+Orion+Arm...;🌌+A+carbon-based+lifeform+has+entered+the+chat;🚀+Welcome+to+my+corner+of+the+cosmos;⚡+Initiating+neural+handshake...;✅+Connection+established!" alt="Greeting"/>
 
 <br/>
 
@@ -69,8 +70,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinit-Rabadiya&show_icons=true&theme=tokyonight&bg_color=0d0d2b&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff&border_color=00d4ff&custom_title=Vinit-Rabadiya&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinit-Rabadiya&layout=compact&theme=tokyonight&bg_color=0d0d2b&title_color=00d4ff&text_color=a0c4ff&border_color=00d4ff&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinit-Rabadiya&show_icons=true&theme=tokyonight&hide_border=false&border_color=00d4ff&bg_color=0d0d2b&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinit-Rabadiya&layout=compact&theme=tokyonight&hide_border=false&border_color=00d4ff&bg_color=0d0d2b&title_color=00d4ff&text_color=a0c4ff&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -91,25 +92,6 @@
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinit-Rabadiya&bg_color=0d0d2b&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&custom_title=Activity%20Across%20The%20Galaxy&theme=tokyo-night)](https://github.com/Vinit-Rabadiya)
-
-</div>
-
----
-
-## ⏱️ WAKA TIME
-
-<div align="center">
-
-![WakaTime](https://img.shields.io/badge/Total%20Code%20Time-1%2C253%20hrs-00d4ff?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0d0d2b)
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-54.1%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d2b)
-![JavaScript](https://img.shields.io/badge/JavaScript-16.8%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d2b)
-![C++](https://img.shields.io/badge/C%2B%2B-10.6%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d0d2b)
-![Java](https://img.shields.io/badge/Java-7.3%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0d2b)
-![TypeScript](https://img.shields.io/badge/TypeScript-6.2%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0d2b)
-![Others](https://img.shields.io/badge/Others-4.9%25-a0c4ff?style=for-the-badge&labelColor=0d0d2b)
 
 </div>
 
