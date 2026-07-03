@@ -96,21 +96,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinit-Rabadiya&bg_color=0d0d2b&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&custom_title=Activity%20Across%20The%20Galaxy&theme=tokyo-night)](https://github.com/Vinit-Rabadiya)
-
-</div>
-
----
-
-## 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-*Every dot is a step toward infinity...*
-
-<br/>
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinit-Rabadiya&bg_color=0d0d2b&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=false&border_color=00d4ff&custom_title=Contribution%20Graph&theme=tokyo-night)](https://github.com/Vinit-Rabadiya)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinit-Rabadiya&bg_color=000010&color=00d4ff&line=a855f7&point=00ff88&area=true&area_color=001030&hide_border=false&border_color=00d4ff&custom_title=⭐%20Stellar%20Activity%20Across%20The%20Galaxy%20⭐&theme=tokyo-night)](https://github.com/Vinit-Rabadiya)
 
 </div>
 
